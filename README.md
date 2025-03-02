@@ -2,4 +2,5 @@
 ---
 >![Anh Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhduy2208&show_icons=true&theme=radical)
 ---
->![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhduy2208&layout=compact&theme=tokyonight)
+>![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anhduy2208&theme=react-dark)
+
