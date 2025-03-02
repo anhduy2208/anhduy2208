@@ -2,6 +2,6 @@
 ---
 >![Anh Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhduy2208&show_icons=true&theme=radical)
 ---
-><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F838302918137996698%2F&psig=AOvVaw3iEIUp-7g_vqUXnnH-ccjf&ust=1741016420454000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC1mt7d64sDFQAAAAAdAAAAABAE" width="40px">
 
 
